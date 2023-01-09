@@ -1,0 +1,19 @@
+[
+    null,
+    {
+        "id": 2,
+        "question": "Kaj si želite počti v življenju?",
+        "answer": ""
+    },
+    null,
+    {
+        "id": 4,
+        "question": "Kako bi opisal okolje v katerem živiš?",
+        "answer": "Vas"
+    },
+    {
+        "id": 5,
+        "question": "What is the weather right now?",
+        "answer": ["Sunny","Shower"]
+    }
+]
