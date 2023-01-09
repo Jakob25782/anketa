@@ -1,0 +1,30 @@
+:root  {
+  --background-color: #fff;
+  --text-color: #111;
+  --primary-color: #5b5fc7
+}
+
+button {
+  background: #111;
+  border-radius: 5px;
+  color: #5b5fc7;
+  height: 40px;
+  width: 130px;
+}
+
+/*.pre{
+  margin-top: 10rem;
+}*/
+
+/*.App {
+  padding: 1em;
+}*/
+
+h1{
+  color: #5b5fc7;
+}
+
+.question{
+  color: aqua;
+}
+
